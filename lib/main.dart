@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'package:zencash/home.dart';
-import 'package:zencash/landing.dart';
+// import 'package:zencash/landing.dart';
 import 'package:zencash/onbard/splash.dart';
 // import 'package:zencash/onbard/page_one.dart';
 // import 'package:zencash/onbard/splash.dart';
